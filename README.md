@@ -1,5 +1,8 @@
-# request-api-node-js-COVID-19-indonesia
+# request-api-node-js-COVID-19-Indonesia
 
+### API Covid 19 Indonesia.
+    $ https://api.kawalcorona.com/indonesia/
+    $ https://api.kawalcorona.com/indonesia/provinsi/
 ---
 ## Requirements
 
