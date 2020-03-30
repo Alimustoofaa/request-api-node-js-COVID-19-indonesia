@@ -1,9 +1,5 @@
 # request-api-node-js-COVID-19-indonesia
 
-# Project Title
-
-A nice project with a nice description
-
 ---
 ## Requirements
 
@@ -38,31 +34,16 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
     $ npm install npm -g
 
 ###
-### Yarn installation
-  After installing node, this project will need yarn too, so just run the following command.
-
-      $ npm install -g yarn
-
 ---
 
 ## Install
 
-    $ git clone https://github.com/YOUR_USERNAME/PROJECT_TITLE
-    $ cd PROJECT_TITLE
-    $ yarn install
+    $ git clone https://github.com/Alimustoofaa/request-api-node-js-COVID-19-indonesia
+    $ cd request-api-node-js-COVID-19-indonesia
+    $ npm install
 
-## Configure app
-
-Open `a/nice/path/to/a.file` then edit it with your settings. You will need:
-
-- A setting;
-- Another setting;
-- One more setting;
-
+---
 ## Running the project
 
-    $ yarn start
-
-## Simple build for production
-
-    $ yarn build
+    $ npm start
+    $ visit http://localhost:8080/
